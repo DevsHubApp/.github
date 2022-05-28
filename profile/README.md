@@ -9,5 +9,5 @@ Welcome to Dev Hub, we are the information sharing community made for developers
 - Discord: https://discord.com/invite/6pRxaNeRX8
 
 ## Open-Source Repos
-- Website: https://github.com/DevsHubApp/Landing
-- Profile: https://github.com/DevsHubApp/.github
+- [Landing Page](https://github.com/DevsHubApp/Landing)
+- [GitHub Profile](https://github.com/DevsHubApp/.github)
