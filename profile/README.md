@@ -11,3 +11,11 @@ Welcome to Dev Hub, we are the information sharing community made for developers
 ## Open-Source Repos
 - [Landing Page](https://github.com/DevsHubApp/Landing)
 - [GitHub Profile](https://github.com/DevsHubApp/.github)
+
+---
+
+## Our Tech Stack
+- [Clerk](https://clerk.dev)
+- [Supabase](https://supabase.com)
+- [NextJS](https://nextjs.org)
+- [Tailwind](https://tailwindcss.com/)
