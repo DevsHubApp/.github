@@ -17,5 +17,5 @@ Welcome to Dev Hub, we are the information sharing community made for developers
 ## Our Tech Stack
 - [Clerk](https://clerk.dev) - (Auth)
 - [Supabase](https://supabase.com) - (Storage)
-- [NextJS](https://nextjs.org) - (Front/Back-End)
+- [NextJS](https://nextjs.org) - (Front-End)
 - [Tailwind](https://tailwindcss.com/) - (CSS/Styling)
