@@ -4,9 +4,9 @@ Welcome to Dev Hub, we are the information sharing community made for developers
 --- 
 
 ## Dev Hub Links
-- Website: https://devhub.life
-- Twitter: https://twitter.com/DevsHubApp
-- Discord: https://discord.com/invite/6pRxaNeRX8
+- [Website](https://devhub.life)
+- [Twitter](https://twitter.com/DevsHubApp)
+- [Discord](https://discord.com/invite/6pRxaNeRX8)
 
 ## Open-Source Repos
 - [Landing Page](https://github.com/DevsHubApp/Landing)
