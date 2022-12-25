@@ -4,18 +4,13 @@ Welcome to Dev Hub, we are the information sharing community made for developers
 --- 
 
 ## Dev Hub Links
-- [Our Website](https://devhub.life)
-- [Our Twitter](https://twitter.com/DevsHubApp)
+- [Our Website](https://beta.devhub.life)
+- [Our Twitter](https://twitter.com/HeyDevHub)
 - [Our Discord](https://discord.com/invite/6pRxaNeRX8)
-
-## Open-Source Repos
-- [Landing Page](https://github.com/DevsHubApp/Landing)
-- [GitHub Profile](https://github.com/DevsHubApp/.github)
 
 ---
 
 ## Our Tech Stack
-- [Clerk](https://clerk.dev) - (Auth)
-- [Supabase](https://supabase.com) - (Storage)
-- [NextJS](https://nextjs.org) - (Front-End)
+- [Firebase](https://firebase.google.com) - (Auth & Storage)
+- [Next.JS](https://nextjs.org) - (Front-End)
 - [Tailwind](https://tailwindcss.com/) - (CSS/Styling)
